@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
+    "main.js": "/react-gh-pages/static/js/main.d53b4390.js",
+    "static/js/453.d5459ee4.chunk.js": "/react-gh-pages/static/js/453.d5459ee4.chunk.js",
+    "static/media/yummy_pic.jpg": "/react-gh-pages/static/media/yummy_pic.c0d403affe7cec38e76e.jpg",
+    "static/media/whos_that_pokemon.png": "/react-gh-pages/static/media/whos_that_pokemon.46066489d1c7eeaac6a8.png",
+    "static/media/whos_that_pokemon_answer.png": "/react-gh-pages/static/media/whos_that_pokemon_answer.2147a92a16e779881a20.png",
+    "static/media/violence-cat.gif": "/react-gh-pages/static/media/violence-cat.5157e0fc6c24953fcbd0.gif",
+    "static/media/cute_pic.jpg": "/react-gh-pages/static/media/cute_pic.e179640a43c28d664918.jpg",
+    "static/media/wingman.png": "/react-gh-pages/static/media/wingman.97472d8c0cfe14b8aa93.png",
+    "static/media/music_score.png": "/react-gh-pages/static/media/music_score.eec8915f2c7b942a0e02.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
+    "main.d53b4390.js.map": "/react-gh-pages/static/js/main.d53b4390.js.map",
+    "453.d5459ee4.chunk.js.map": "/react-gh-pages/static/js/453.d5459ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d53b4390.js"
+  ]
+}

@@ -12,13 +12,13 @@ export const ValGame: React.FC<ChildProps> = ({ updateToPuzzle }) => {
   const [matchData, setMatchData] = useState<MatchData | null>(null);
   const [clicked, setClicked] = useState(false)
 
-  const glubPlayer = matchData?.players.find((player: Player) => player.name === "soogee" && player.tag === "NA1");
+  const glubPlayer = matchData?.players.find((player: Player) => player.name === "glub" && player.tag === "bulg");
   const matchStartTime = matchData?.metadata.started_at ? new Date(matchData.metadata.started_at) : undefined;
   const now = new Date();
   const twoHoursAgo = new Date(now.getTime() - 2 * 60 * 60 * 1000);
 
   const fetchMatches = async () => {
-    const url = `https://api.henrikdev.xyz/valorant/v4/matches/na/pc/soogee/NA1?api_key=${token}&start=0&size=1`;
+    const url = `https://api.henrikdev.xyz/valorant/v4/matches/na/pc/glub/bulg?api_key=${token}&start=0&size=1`;
 
     try {
       const response = await fetch(url, {

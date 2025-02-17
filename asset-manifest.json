@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hunt2025/static/css/main.f855e6bc.css",
-    "main.js": "/hunt2025/static/js/main.2bfdae66.js",
+    "main.js": "/hunt2025/static/js/main.28e11d0a.js",
     "static/js/453.d5459ee4.chunk.js": "/hunt2025/static/js/453.d5459ee4.chunk.js",
     "static/media/yummy_pic.jpg": "/hunt2025/static/media/yummy_pic.c0d403affe7cec38e76e.jpg",
     "static/media/whos_that_pokemon.png": "/hunt2025/static/media/whos_that_pokemon.46066489d1c7eeaac6a8.png",
@@ -12,11 +12,11 @@
     "static/media/music_score.png": "/hunt2025/static/media/music_score.eec8915f2c7b942a0e02.png",
     "index.html": "/hunt2025/index.html",
     "main.f855e6bc.css.map": "/hunt2025/static/css/main.f855e6bc.css.map",
-    "main.2bfdae66.js.map": "/hunt2025/static/js/main.2bfdae66.js.map",
+    "main.28e11d0a.js.map": "/hunt2025/static/js/main.28e11d0a.js.map",
     "453.d5459ee4.chunk.js.map": "/hunt2025/static/js/453.d5459ee4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2bfdae66.js"
+    "static/js/main.28e11d0a.js"
   ]
 }
